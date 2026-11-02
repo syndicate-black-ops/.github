@@ -1,0 +1,1 @@
+Syndicate Black Ops is a modification for Half-Life 1, originally created by [Streumon Studio](https://streumon-studio.com), and being updated by [MrCalvin](https://sbotnas.io). Check this space later for more information.
